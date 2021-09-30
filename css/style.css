@@ -123,8 +123,7 @@ thead tr:first-child th:first-child{}
 
 /*Add selectors and rules here*/
 tr:hover {
-    background-color: rgb(126, 8, 37);
-    opacity: .25;
+    background-color: rgba(126, 8, 37,.25);
 }
 
 tr:nth-child(2n){
